@@ -1,0 +1,13 @@
+{
+  "name": "escribo-desafio-01",
+  "version": "1.0.0",
+  "description": "Desafio técnico da Escribo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/**.test.js"
+  },
+  "keywords": [],
+  "author": "iamthepoe",
+  "license": "ISC",
+  "type": "module"
+}
